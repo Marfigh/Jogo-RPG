@@ -6,7 +6,7 @@ print('O jogo funciona da seguinte forma')
 print('No menu de ações você vai ter 3 opções:\n')
 print('Atacar: Tira 20 de vida do monstro mais você acaba perdendo 15 de vida')
 print('Poção: Reculpera 25 de vida do herói mais gasta 1 poção')
-print('Status: Mostra a vida do monstro, vida do herói e quatas poções o jogador tem\n')
+print('Status: Mostra a vida do monstro, vida do herói e quantas poções o jogador tem\n')
 print('Boa sorte jogador para enfrentar a terrível fera, seja esperto e ........\n')
 pocao=2
 vheroi=100
