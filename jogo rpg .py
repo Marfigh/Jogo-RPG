@@ -37,7 +37,7 @@ while True:
             vheroi<=150
             vheroi=vheroi + 25
             pocao=pocao - 1
-            if vheroi >= 150:
+            if vheroi > 150:
                 vheroi = 150
     if acao == 3:
         print('Vida do Herói: {} HP'. format(vheroi))
